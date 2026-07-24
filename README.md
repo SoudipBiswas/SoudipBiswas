@@ -19,6 +19,19 @@
   <img src="https://trophy.ryglcloud.net/?username=SoudipBiswas&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Soudip Biswas's GitHub Trophies" />
 </p>
 
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Codexia-afk">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SoudipBiswas&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=SoudipBiswas">
+    <img src="https://komarev.com/ghpvc/?username=SoudipBiswas&label=Profile%20views&color=00FFFF&style=flat-square" alt="SoudipBiswas's profile views" />
+  </a>
+</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SoudipBiswas&theme=radical&radius=10" alt="Soudip's Activity Graph" />
 </p>
