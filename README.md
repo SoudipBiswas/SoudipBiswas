@@ -1,3 +1,21 @@
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlyNXFsYWU2MGd3azdldzkzZXZ5ZWcyNjRzMzV5NmVseXNlY2Z3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRzozg4TCBXv6QU/giphy.gif"
+    alt="Coding Animation"
+    width="650"
+  />
+</p>
+
+<div align="center">
+
+# Hi!! 👋 I'm Soudip Biswas
+
+### Designing Experiences • Building Products • Solving Problems
+
+*"Where creativity meets functionality."*
+
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Figma <br>🌱 I’m currently learning Generative AI, Blender, Dribbble <br>👯 I’m looking to collaborate on FlowState <br>🤝 I’m looking for help with blending creative vision with functional problem solving <br>👨‍💻 All of my projects are available at https://github.com/SoudipBiswas?tab=repositories <br>💬 Ask me about Python , C , C++,  MySQL, Html, CSS, JavaScript , Figma , Canva<br>📫 How to reach me soudipbiswas6@gmail.com <br>
 
